@@ -216,7 +216,7 @@ I’m actively exploring opportunities in:
 ## 📬 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/manohark1999)
-📧 [Email](manoharmanu.k1999@gmail.com)
+📧 [Email](https://www.manoharmanu.k1999@gmail.com)
 
 ## ⭐ Final Note
 
