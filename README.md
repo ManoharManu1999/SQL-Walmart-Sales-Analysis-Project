@@ -1,3 +1,5 @@
+![Walmart Sales Analysis Banner](Walmart%20Project%20Banner.png)
+
 # 🛒 Walmart Sales Data Analysis – SQL Project
 
 ## 📌 Project Overview
